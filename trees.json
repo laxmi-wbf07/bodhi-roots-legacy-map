@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "id": "BR001",
+    "treeCode": "BR001",
+    "ownerName": "LAXMI",
+    "dedicatedTo": "LAXMI",
+    "message": "hihello",
+    "species": "oak",
+    "latitude": "27.461455",
+    "longitude": "89.651848",
+    "plantingDate": "2026-05-26",
+    "status": "Planted",
+    "coverPhoto": "https://raw.githubusercontent.com/laxmi-wbf07/bodhi-roots-legacy-map/main/photos/BR001/1780070622443-hv5mke-IMG_3738-Puspa-Sharma.jpg",
+    "photoGallery": [
+      "https://raw.githubusercontent.com/laxmi-wbf07/bodhi-roots-legacy-map/main/photos/BR001/1780070622443-hv5mke-IMG_3738-Puspa-Sharma.jpg"
+    ],
+    "updates": [],
+    "createdAt": "2026-05-29T16:03:50.510Z",
+    "updatedAt": "2026-05-29T16:03:50.510Z"
+  }
+]
