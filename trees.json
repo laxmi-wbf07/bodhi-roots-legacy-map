@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "id": "BR011",
+    "treeCode": "BR011",
+    "ownerName": "KAKASHI",
+    "dedicatedTo": "ME",
+    "message": "",
+    "species": "",
+    "latitude": "27.4633984",
+    "longitude": "89.6595898",
+    "plantingDate": "2026-05-31",
+    "status": "Planted",
+    "coverPhoto": "",
+    "photoGallery": [],
+    "updates": [],
+    "createdAt": "2026-05-31T05:04:30.986Z",
+    "updatedAt": "2026-05-31T05:04:30.986Z"
+  }
+]
