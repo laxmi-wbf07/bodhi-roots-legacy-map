@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "id": "BR010",
+    "treeCode": "BR010",
+    "ownerName": "meo",
+    "dedicatedTo": "mo",
+    "message": "",
+    "species": "",
+    "latitude": "27.4634425",
+    "longitude": "89.6595418",
+    "plantingDate": "2026-09-09",
+    "status": "Planted",
+    "coverPhoto": "https://raw.githubusercontent.com/laxmi-wbf07/bodhi-roots-legacy-map/main/photos/BR010/Screenshot-15-mpt9tgv4qxos.jpg",
+    "photoGallery": [
+      "https://raw.githubusercontent.com/laxmi-wbf07/bodhi-roots-legacy-map/main/photos/BR010/Screenshot-15-mpt9tgv4qxos.jpg"
+    ],
+    "updates": [],
+    "createdAt": "2026-05-31T04:19:54.073Z",
+    "updatedAt": "2026-05-31T04:19:54.073Z"
+  }
+]
