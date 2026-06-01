@@ -91,5 +91,24 @@
     "updates": [],
     "createdAt": "2026-06-01T08:23:05.552Z",
     "updatedAt": "2026-06-01T08:23:05.552Z"
+  },
+  {
+    "id": "BR010",
+    "treeCode": "BR010",
+    "ownerName": "xfy fv",
+    "dedicatedTo": "gybyg",
+    "message": "",
+    "species": "",
+    "latitude": "27.4633984",
+    "longitude": "89.6595570",
+    "plantingDate": "2026-06-25",
+    "status": "Planted",
+    "coverPhoto": "https://raw.githubusercontent.com/laxmi-wbf07/bodhi-roots-legacy-map/main/photos/BR010/WH-Thimphu-Up-and-Running-mpv2datyithp.jpg",
+    "photoGallery": [
+      "https://raw.githubusercontent.com/laxmi-wbf07/bodhi-roots-legacy-map/main/photos/BR010/WH-Thimphu-Up-and-Running-mpv2datyithp.jpg"
+    ],
+    "updates": [],
+    "createdAt": "2026-06-01T10:27:13.869Z",
+    "updatedAt": "2026-06-01T10:27:13.869Z"
   }
 ]
