@@ -53,5 +53,24 @@
     "updates": [],
     "createdAt": "2026-06-01T04:58:38.162Z",
     "updatedAt": "2026-06-01T04:58:38.162Z"
+  },
+  {
+    "id": "BR020",
+    "treeCode": "BR020",
+    "ownerName": "Boka",
+    "dedicatedTo": "shi",
+    "message": "",
+    "species": "",
+    "latitude": "27.4637387",
+    "longitude": "89.6599200",
+    "plantingDate": "2026-06-01",
+    "status": "Planted",
+    "coverPhoto": "https://raw.githubusercontent.com/laxmi-wbf07/bodhi-roots-legacy-map/main/photos/BR020/Screenshot-2026-05-31-220757-mpuqovgwjmr4.jpg",
+    "photoGallery": [
+      "https://raw.githubusercontent.com/laxmi-wbf07/bodhi-roots-legacy-map/main/photos/BR020/Screenshot-2026-05-31-220757-mpuqovgwjmr4.jpg"
+    ],
+    "updates": [],
+    "createdAt": "2026-06-01T04:59:47.087Z",
+    "updatedAt": "2026-06-01T04:59:47.087Z"
   }
 ]
