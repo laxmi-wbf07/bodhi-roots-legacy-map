@@ -72,5 +72,24 @@
     "updates": [],
     "createdAt": "2026-06-01T04:59:47.087Z",
     "updatedAt": "2026-06-01T04:59:47.087Z"
+  },
+  {
+    "id": "BR021",
+    "treeCode": "BR021",
+    "ownerName": "JIGYEL",
+    "dedicatedTo": "Absulotely No One",
+    "message": "",
+    "species": "",
+    "latitude": "27.4633945",
+    "longitude": "89.6596182",
+    "plantingDate": "2026-01-01",
+    "status": "Planted",
+    "coverPhoto": "https://raw.githubusercontent.com/laxmi-wbf07/bodhi-roots-legacy-map/main/photos/BR021/IMG_2379-Jigme-Phuntsho-Tenzin-mpuxyba96wz3.jpg",
+    "photoGallery": [
+      "https://raw.githubusercontent.com/laxmi-wbf07/bodhi-roots-legacy-map/main/photos/BR021/IMG_2379-Jigme-Phuntsho-Tenzin-mpuxyba96wz3.jpg"
+    ],
+    "updates": [],
+    "createdAt": "2026-06-01T08:23:05.552Z",
+    "updatedAt": "2026-06-01T08:23:05.552Z"
   }
 ]
